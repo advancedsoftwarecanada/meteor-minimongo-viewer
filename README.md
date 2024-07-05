@@ -1,6 +1,8 @@
 Meet Mongol, the Original Development Tool for Meteor
 =====================================================
 
+FORKED: Fixing for Meteor 3
+
 Starting today, you'll never have to enter the console to play with your collections again. With Mongol, you can view and edit your client documents right in the browser. And because Mongol is a debugOnly package, it does not compile to your production build.
 
 <a href="http://meteor.toys"><img src="https://raw.githubusercontent.com/msavin/Mongol-meteor-explore-minimongo-devtools/master/Mongol.gif"></a>
